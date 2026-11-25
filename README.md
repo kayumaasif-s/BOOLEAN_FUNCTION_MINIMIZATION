@@ -49,7 +49,7 @@ endmodule
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: DEEPIKA.U RegisterNumber:212225040060*/
+Developed by: KAYUM AASIF S RegisterNumber:212225230136*/
 
 **Truth table**
 
